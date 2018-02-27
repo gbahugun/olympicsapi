@@ -1,0 +1,13 @@
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\bin\Debug\netcoreapp2.0\app.db
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\bin\Debug\netcoreapp2.0\OlympicsWeb.deps.json
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\bin\Debug\netcoreapp2.0\OlympicsWeb.runtimeconfig.json
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\bin\Debug\netcoreapp2.0\OlympicsWeb.runtimeconfig.dev.json
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\bin\Debug\netcoreapp2.0\OlympicsWeb.dll
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\bin\Debug\netcoreapp2.0\OlympicsWeb.pdb
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\obj\Debug\netcoreapp2.0\OlympicsWeb.csproj.CoreCompileInputs.cache
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\obj\Debug\netcoreapp2.0\OlympicsWeb.AssemblyInfoInputs.cache
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\obj\Debug\netcoreapp2.0\OlympicsWeb.AssemblyInfo.cs
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\obj\Debug\netcoreapp2.0\OlympicsWeb.dll
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\obj\Debug\netcoreapp2.0\OlympicsWeb.pdb
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\obj\Debug\netcoreapp2.0\OlympicsWeb.csprojResolveAssemblyReference.cache
+C:\Users\gagan\Documents\asp.net\OlympicsWeb\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
